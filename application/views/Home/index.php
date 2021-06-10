@@ -36,9 +36,6 @@
                             <a class="nav-link" href="#mh-experience">Experiences</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#mh-portfolio">Portfolio</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link" href="#mh-footer">Contact</a>
                         </li>
                     </ul>
@@ -67,8 +64,8 @@
                         <h4 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">FrontEnd Web and Android</h4>
 
                         <ul>
-                            <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fa fa-envelope"></i><a href="mailto:">rizkyasepsutrisna@gmail.com</a></li>
-                            <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><i class="fa fa-phone"></i><a href="callto:">+62 81273922723</a></li>
+                            <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fa fa-envelope"></i><address>rizkyasepsutrisna@gmail.com</address></li>
+                            <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><i class="fa fa-phone"></i><address>+62 81273922723</address></li>
                             <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s"><i class="fa fa-map-marker"></i>
                                 <address>Bandung City, West Java</address>
                             </li>
@@ -123,7 +120,7 @@
                             <li><span>Javascript</span></li>
                         </ul>
                     </div>
-                    <a href="#" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">Downlaod CV <i class="fa fa-download"></i></a>
+                    <a href="https://drive.google.com/file/d/18HaRuw0VisjIcYNZKXPHJXjIAHzRNEsd/view?usp=sharing" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">Downlaod CV <i class="fa fa-download"></i></a>
                 </div>
             </div>
         </div>
@@ -153,7 +150,7 @@
             <div class="col-sm-4">
                 <div class="mh-service-item shadow-1 dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s">
                     <i class="fa fa-code iron-color"></i>
-                    <h3>Web Development</h3>
+                    <h3>Front-End Website</h3>
                     <p>
                         i make a website that can use php, laravel or reactjs, but i prefer to use php and use the codeigniter framework.
                     </p>
@@ -162,7 +159,7 @@
             <div class="col-sm-4">
                 <div class="mh-service-item shadow-1 dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.7s">
                     <i class="fa fa-object-ungroup sky-color"></i>
-                    <h3>App Development</h3>
+                    <h3>Front-End Android</h3>
                     <p>
                         I created an application using Android Studio using the Java language.
                     </p>
@@ -177,7 +174,7 @@
           FEATURE PROJECTS
         ===================
         -->
-<section class="mh-featured-project image-bg featured-img-one">
+<!--<section class="mh-featured-project image-bg featured-img-one">
     <div class="img-color-overlay">
         <div class="container">
             <div class="row section-separator">
@@ -186,7 +183,7 @@
                 </div>
                 <div class="col-sm-12">
                     <div class="mh-single-project-slide-by-side row">
-                        <!-- Project Items -->
+                        //Project Items
                         <div class="col-sm-12 mh-featured-item">
                             <div class="row">
                                 <div class="col-sm-7">
@@ -222,7 +219,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- Project Items -->
+                        //Project Items 
                         <div class="col-sm-12 mh-featured-item">
                             <div class="row">
                                 <div class="col-sm-7">
@@ -258,7 +255,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- Project Items -->
+                        //Project Items
                         <div class="col-sm-12 mh-featured-item">
                             <div class="row">
                                 <div class="col-sm-7">
@@ -296,10 +293,11 @@
                         </div>
                     </div>
                 </div>
-            </div> <!-- End: .row -->
+            </div>
         </div>
     </div>
 </section>
+-->
 
 <!--
         ===================
@@ -495,9 +493,9 @@
 
 <!--
         ===================
-           PORTFOLIO
+           RECENT PORTFOLIO
         ===================
-        -->
+        
 <section class="mh-portfolio" id="mh-portfolio">
     <div class="container">
         <div class="row section-separator">
@@ -615,10 +613,10 @@
                                 </figcaption>
                             </figure>
                         </div>
-                    </div> <!-- End: .grid .project-gallery -->
-                </div> <!-- End: .grid .project-gallery -->
-            </div> <!-- End: .part -->
-        </div> <!-- End: .row -->
+                    </div> 
+                </div>
+            </div>
+        </div>
     </div>
     <div class="mh-portfolio-modal" id="mh">
         <div class="container">
@@ -659,6 +657,7 @@
         </div>
     </div>
 </section>
+-->
 
 <!--
         ===================
@@ -695,7 +694,7 @@
                                     </div>
                                     <div class="each-info media-body">
                                         <h4>Email</h4>
-                                        <a href="mailto:rizkyasepsutrisna@email.com">rizkyasepsutrisna@email.com</a><br>
+                                        <address>rizkyasepsutrisna@email.com</address><br>
                                     </div>
                                 </div>
                             </div>
@@ -706,7 +705,7 @@
                                     </div>
                                     <div class="each-info media-body">
                                         <h4>Phone</h4>
-                                        <a href="callto:(+62)-8127-3922-723">(880)-8976-987</a><br>
+                                        <address>(+62)-8127-3922-723</address><br>
                                     </div>
                                 </div>
                             </div>
@@ -742,7 +741,7 @@
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="text-left text-xs-center">
-                                        <p>@copyright 2021</p>
+                                        <p>@Copyright 2021</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
